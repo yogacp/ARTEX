@@ -33,6 +33,7 @@ Thumbs.db
 
 # claude code local state
 .claude/
+/CLAUDE.md
 
 # single-binary artifact with embedded frontend
 /artex
